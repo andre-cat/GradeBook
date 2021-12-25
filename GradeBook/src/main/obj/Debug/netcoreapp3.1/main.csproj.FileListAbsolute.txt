@@ -1,0 +1,13 @@
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\bin\Debug\netcoreapp3.1\main.exe
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\bin\Debug\netcoreapp3.1\main.deps.json
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.json
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.dev.json
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\bin\Debug\netcoreapp3.1\main.dll
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\bin\Debug\netcoreapp3.1\main.pdb
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.AssemblyInfo.cs
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.dll
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.pdb
+C:\Users\Andre\Documents\csharp\GradeBook\src\main\obj\Debug\netcoreapp3.1\main.genruntimeconfig.cache
